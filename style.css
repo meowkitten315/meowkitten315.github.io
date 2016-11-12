@@ -34,3 +34,38 @@ div.menubar a:hover {
   /*color: #F70F5C;*/
   color: #F0ADED;
 }
+
+div p {
+/*  margin-left: 275px;
+  margin-right: 275px; */
+  margin-top: 60px;
+  margin-bottom: auto;
+  font-family: "Helvetica Neue";
+  font-weight: 200;
+  font-size: 24px;
+  text-align: justify;
+}
+
+.textbox {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 275px;
+  margin-right: 275px;
+}
+
+#hrsize {
+  margin-left: 275px;
+  margin-right: 275px;
+}
+
+.halftitle {
+  margin-left: 325px;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-family: "Helvetica Neue";
+  font-weight: 200;
+  font-size: 36px;
+}
