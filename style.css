@@ -1,0 +1,36 @@
+div.title {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 500%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+}
+
+div.titleleft {
+  text-align: left;
+  text-decoration: underline;
+  font-size: 250%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+}
+
+div.menubar {
+  text-align: center;
+}
+
+body {
+  background-color: F0FFF0;
+}
+
+div.menubar a:link {
+  color: black;
+}
+
+div.menubar a:visited {
+  color: black;
+}
+
+div.menubar a:hover {
+  /*color: #F70F5C;*/
+  color: #F0ADED;
+}
