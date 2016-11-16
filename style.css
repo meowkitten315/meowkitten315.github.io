@@ -3,20 +3,24 @@ body {
 }
 
 .leftp {
-  width: 25%;
+  width: 297px;
   float: left;
   height: 100%;
 }
 
 
 .rightp {
-  width: 25%;
+  width: 297px;
   float: right;
   height: 100%;
 }
 
 #rightpcontents {
   float: right;
+}
+
+#leftpcontents {
+
 }
 
 .centerp {
@@ -44,6 +48,24 @@ body {
   width: 34%;
   float: left;
   height: 100%;
+}
+
+.submenu1index {
+  width: 30%;
+  float: left;
+  height: 100%;
+}
+
+.submenu2index {
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+
+.submenu3index {
+  width: 30%;
+  height: 100%;
+  float: right;
 }
 
 #bacon {
