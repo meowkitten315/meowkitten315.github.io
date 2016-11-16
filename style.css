@@ -29,6 +29,18 @@ body {
   width: 100%;
 }
 
+.contactpicture {
+  width: 100%;
+}
+
+.contacttext {
+  text-align: center;
+  font-size: 250%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+
+}
+
 .centerp3 {
   width: 50%;
   float: right;
