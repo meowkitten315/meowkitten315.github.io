@@ -69,17 +69,6 @@ div p {
   float: left;
 }
 
-#left1 {
-  height: 33%;
-}
-
-#left2 {
-  height: 33%;
-}
-
-#left3 {
-  height: 33%;
-}
 
 #rightpane {
   width: 25%;
@@ -99,12 +88,16 @@ div p {
   width: 150px;
   height: auto;
   float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #lilysizeright {
   width: 150px;
   height: auto;
   float: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .containertitleandmenubar {
