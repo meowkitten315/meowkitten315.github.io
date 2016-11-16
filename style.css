@@ -38,7 +38,15 @@ body {
   font-size: 250%;
   font-family: "Helvetica Neue";
   font-weight: lighter;
+}
 
+
+
+.missiontext {
+    text-align: justify;
+    font-size: 150%;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
 }
 
 .centerp3 {
