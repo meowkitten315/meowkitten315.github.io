@@ -69,6 +69,18 @@ div p {
   float: left;
 }
 
+#left1 {
+  height: 33%;
+}
+
+#left2 {
+  height: 33%;
+}
+
+#left3 {
+  height: 33%;
+}
+
 #rightpane {
   width: 25%;
   float: right;
