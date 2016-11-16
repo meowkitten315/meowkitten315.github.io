@@ -21,6 +21,10 @@ body {
   height: 100%;
 }
 
+#resize1 {
+  height: 10%;
+}
+
 .centerp3 {
   width: 50%;
   float: right;
