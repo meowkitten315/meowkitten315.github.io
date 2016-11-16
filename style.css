@@ -1,4 +1,3 @@
-
 body {
   background-color: #F0FFF0;
 }
@@ -42,7 +41,7 @@ body {
 }
 
 .submenu1 {
-  width: 35%;
+  width: 34%;
   float: left;
   height: 100%;
 }
@@ -52,9 +51,14 @@ body {
 }
 
 .submenu2 {
-  width: 30%;
+  width: 32%;
   height: 100%;
   float: left;
+  position: relative;
+}
+
+.submenu2top {
+  z-index: 1;
   text-align: center;
   text-decoration: underline;
   font-size: 500%;
@@ -62,8 +66,19 @@ body {
   font-weight: lighter;
 }
 
+.submenu2bottom {
+
+  z-index: 2;
+
+  text-align: center;
+  text-decoration: underline;
+  font-size: 100%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+}
+
 .submenu3 {
-  width: 35%;
+  width: 34%;
   height: 100%;
   float: right;
 }
