@@ -1,11 +1,3 @@
-div.title {
-  text-align: center;
-  text-decoration: underline;
-  font-size: 500%;
-  font-family: "Helvetica Neue";
-  font-weight: lighter;
-}
-
 div.titleleft {
   text-align: left;
   text-decoration: underline;
@@ -14,8 +6,10 @@ div.titleleft {
   font-weight: lighter;
 }
 
-div.menubar {
+#menubar {
   text-align: center;
+  align-items: center;
+  height: 20%;
 }
 
 body {
@@ -45,7 +39,7 @@ div p {
   font-size: 24px;
   text-align: justify;
 }
-
+/*
 .textbox {
   padding-left: 10px;
   padding-right: 10px;
@@ -54,7 +48,7 @@ div p {
   margin-left: 275px;
   margin-right: 275px;
 }
-
+*/
 #hrsize {
   margin-left: 275px;
   margin-right: 275px;
@@ -68,4 +62,75 @@ div p {
   font-family: "Helvetica Neue";
   font-weight: 200;
   font-size: 36px;
+}
+
+#leftpane {
+  width: 25%;
+  float: left;
+}
+
+#rightpane {
+  width: 25%;
+  float: right;
+}
+
+#centerpane {
+  width: 550px;
+  float: left;
+}
+
+#container {
+  width: 100%;
+}
+
+#lilysizeleft {
+  width: 150px;
+  height: auto;
+  float: left;
+}
+
+#lilysizeright {
+  width: 150px;
+  height: auto;
+  float: right;
+}
+
+.containertitleandmenubar {
+  height: 150px;
+}
+
+#birdright {
+  width: 34%;
+  height: 80%;
+  float: left;
+}
+
+#title {
+  width: 32%;
+  height: 80%;
+  float: left;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 500%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+}
+
+
+#actualimgleft {
+  width: 50%;
+  height: 50%;
+  float: right;
+}
+
+#actualimgright {
+  width: 50%;
+  height: 50%;
+  float: left;
+}
+
+#birdleft {
+  width: 34%;
+  float: left;
+  height: 80%;
 }
