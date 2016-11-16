@@ -1,120 +1,55 @@
-div.titleleft {
-  text-align: left;
-  text-decoration: underline;
-  font-size: 250%;
-  font-family: "Helvetica Neue";
-  font-weight: lighter;
-}
-
-.menubar {
-  text-align: center;
-  align-items: center;
-  height: 20%;
-}
 
 body {
   background-color: #F0FFF0;
 }
 
-div.menubar a:link {
-  color: black;
-}
-
-div.menubar a:visited {
-  color: black;
-}
-
-div.menubar a:hover {
-  /*color: #F70F5C;*/
-  color: #F0ADED;
-}
-
-div p {
-/*  margin-left: 275px;
-  margin-right: 275px; */
-  margin-top: 60px;
-  margin-bottom: auto;
-  font-family: "Helvetica Neue";
-  font-weight: 200;
-  font-size: 24px;
-  text-align: justify;
-}
-/*
-.textbox {
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-left: 275px;
-  margin-right: 275px;
-}
-*/
-#hrsize {
-  margin-left: 275px;
-  margin-right: 275px;
-}
-
-.halftitle {
-  margin-left: 325px;
-  margin-right: auto;
-  margin-top: 50px;
-  margin-bottom: 0px;
-  font-family: "Helvetica Neue";
-  font-weight: 200;
-  font-size: 36px;
-}
-
-#leftpane {
+.leftp {
   width: 25%;
   float: left;
   height: 100%;
 }
 
 
-#rightpane {
+.rightp {
   width: 25%;
   float: right;
+  height: 100%;
 }
 
-#centerpane {
+.centerp {
   width: 550px;
   float: left;
-}
-
-#container {
-  width: 100%;
   height: 100%;
 }
 
-#lilysizeleft {
-  width: 150px;
-  height: auto;
-  float: left;
-  padding-top: 10px;
-  padding-bottom: 10px;
+
+#titleleft {
+
+  text-align: left;
+  text-decoration: underline;
+  font-size: 200%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
 }
 
-#lilysizeright {
-  width: 150px;
-  height: auto;
+
+.menubar1 {
+  height: 200px;
+}
+
+.submenu1 {
+  width: 35%;
+  float: left;
+  height: 100%;
+}
+
+#bacon {
   float: right;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
-.containertitleandmenubar {
-  height: 150px;
-}
-
-#birdright {
-  width: 34%;
-  height: 80%;
-  float: left;
-}
-
-#title {
-  width: 32%;
-  height: 80%;
+.submenu2 {
+  width: 30%;
+  height: 100%;
   float: left;
   text-align: center;
   text-decoration: underline;
@@ -123,21 +58,21 @@ div p {
   font-weight: lighter;
 }
 
-
-#actualimgleft {
-  width: 50%;
-  height: 50%;
+.submenu3 {
+  width: 35%;
+  height: 100%;
   float: right;
 }
 
-#actualimgright {
-  width: 50%;
-  height: 50%;
-  float: left;
+.menubar1 a:link {
+  color: black;
 }
 
-#birdleft {
-  width: 34%;
-  float: left;
-  height: 80%;
+.menubar1 a:visited {
+  color: black;
+}
+
+.menubar1 a:hover {
+  /*color: #F70F5C;*/
+  color: #F0ADED;
 }
