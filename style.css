@@ -3,7 +3,7 @@ body {
 }
 
 .leftp {
-  width: 297px;
+  width: 25%;
   float: left;
   height: 100%;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 .rightp {
-  width: 297px;
+  width: 25%;
   float: right;
   height: 100%;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .centerp {
-  width: 550px;
+  width: 50%;
   float: left;
   height: 1000px;
 }
