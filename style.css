@@ -10,9 +10,51 @@ body {
 
 .centerp1 {
   width: 50%;
+  height: 340px;
   float: left;
   text-align: center;
+  z-index: 2;
+}
+
+.centerp1text {
+  width: 50%;
+  height: 30px;
+  z-index: 4;
+  float: left;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.centerp2 {
+  width: 50%;
+  height: 340px;
+  float: left;
+  text-align: center;
+  z-index: 3;
+}
+
+.centerp2text {
+  width: 50%;
+  height: 30px;
+  z-index: 5;
+  float: left;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.centerp3 {
+  width: 100%;
+  height: auto;
+  float: right;
+  text-align: center;
   z-index: 1;
+}
+
+#centertext {
+  text-align: center;
+  font-size: 175%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
 }
 
 .rightp {
@@ -21,12 +63,21 @@ body {
   height: 100%;
 }
 
+.aboutus {
+  text-align: justify;
+  font-size: 175%;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+}
+
 #resize1 {
   width: 100%;
+  height: 100%;
 }
 
 #resize2 {
   width: 100%;
+  height: 100%;
 }
 
 .contactpicture {
@@ -40,20 +91,19 @@ body {
   font-weight: lighter;
 }
 
-
+.missionimg {
+  padding-bottom: 20px;
+}
 
 .missiontext {
     text-align: justify;
-    font-size: 150%;
+    font-size: 175%;
     font-family: "Helvetica Neue";
     font-weight: lighter;
 }
 
-.centerp3 {
-  width: 50%;
-  float: right;
-  text-align: center;
-  z-index: 3;
+#contacttextstuff {
+  line-height: 150%;
 }
 
 #rightpcontents {
@@ -70,12 +120,6 @@ body {
   height: 1000px;
 }
 
-.centerp2 {
-  width: 50%;
-  float: left;
-  text-align: center;
-  z-index: 2;
-}
 
 .centerpsub {
   height: 613px;
