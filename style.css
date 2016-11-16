@@ -16,6 +16,10 @@ body {
   height: 100%;
 }
 
+#rightpcontents {
+  float: right;
+}
+
 .centerp {
   width: 550px;
   float: left;
