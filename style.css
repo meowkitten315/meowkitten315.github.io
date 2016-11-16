@@ -9,7 +9,7 @@ body {
 }
 
 .centerp1 {
-  width: 33%;
+  width: 50%;
   float: left;
   text-align: center;
   z-index: 1;
@@ -22,7 +22,7 @@ body {
 }
 
 .centerp3 {
-  width: 33%;
+  width: 50%;
   float: right;
   text-align: center;
   z-index: 3;
@@ -43,7 +43,7 @@ body {
 }
 
 .centerp2 {
-  width: 33%;
+  width: 50%;
   float: left;
   text-align: center;
   z-index: 2;
