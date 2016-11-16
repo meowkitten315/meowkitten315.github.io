@@ -22,7 +22,11 @@ body {
 }
 
 #resize1 {
-  height: 10%;
+  width: 100%;
+}
+
+#resize2 {
+  width: 100%;
 }
 
 .centerp3 {
@@ -54,7 +58,7 @@ body {
 }
 
 .centerpsub {
-  height: auto;
+  height: 613px;
 }
 
 #titleleft {
