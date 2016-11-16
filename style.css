@@ -6,7 +6,7 @@ div.titleleft {
   font-weight: lighter;
 }
 
-#menubar {
+.menubar {
   text-align: center;
   align-items: center;
   height: 20%;
