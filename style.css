@@ -230,3 +230,28 @@ body {
   /*color: #F70F5C;*/
   color: #c76dff;
 }
+
+.tableclass {
+
+}
+
+#photofix {
+  width: 120px;
+  height: 80px;
+
+}
+
+.centerpgal1 {
+  width: 100%;
+  float: left;
+  height: 1000px;
+}
+
+
+
+
+
+
+.mySlides {
+  display: none;
+}
