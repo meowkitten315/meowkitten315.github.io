@@ -154,7 +154,7 @@ body {
 
 
 .menubar1 {
-  height: 200px;
+  height: 225px;
 }
 
 .submenu1 {
@@ -232,24 +232,35 @@ body {
 }
 
 .tableclass {
-
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #photofix {
-  width: 120px;
-  height: 80px;
-
+  width: 240px;
 }
 
 .centerpgal1 {
   width: 100%;
   float: left;
-  height: 1000px;
+  height: auto;
 }
 
+.tdclass {
+  padding: 30px;
+}
 
+.tagline {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 150%;
+}
 
-
+.price {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 100%;
+}
 
 
 .mySlides {
