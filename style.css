@@ -144,7 +144,6 @@ body {
 }
 
 #titleleft {
-
   text-align: left;
   text-decoration: underline;
   font-size: 250%;
@@ -262,7 +261,29 @@ body {
   font-size: 100%;
 }
 
+.tagline2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 125%;
+}
+
 
 .mySlides {
   display: none;
+}
+
+.aboutclass {
+  width: auto;
+  margin: 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 125%;
+}
+
+.tdaboutclass {
+  width: auto;
+}
+
+.tabletitle {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 125%;
 }
